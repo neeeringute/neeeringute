@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/neeeringute/neeeringute/blob/main/pic%20(1).png)](https://neeeringute.io)
+[![MasterHead](https://github.com/neeeringute/neeeringute/blob/main/picture%20(1).png)](https://neeeringute.io)
 <h1 align="center">Hi there👋 </h1>
 <h3 align="center">Data Enthusiast with Aspirations in Data Science</h3>
 <img align="right" alt="Coding" width="450" src="https://github.com/neeeringute/neeeringute/blob/main/vid1-ezgif.com-video-to-gif-converter.gif">
