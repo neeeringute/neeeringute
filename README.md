@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/neeeringute/neeeringute/blob/main/pic%20(1).png)](https://neeeringute.io)
 <h1 align="center">Hi there👋 </h1>
 <h3 align="center">Data Enthusiast with Aspirations in Data Science</h3>
-<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/07/state2.gif">
+<img align="right" alt="Coding" width="500" src="https://github.com/neeeringute/neeeringute/blob/main/vid1-ezgif.com-video-to-gif-converter.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeeringute&label=Profile%20views&color=0e75b6&style=flat" alt="neeeringute" /> </p>
 
