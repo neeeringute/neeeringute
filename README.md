@@ -45,13 +45,6 @@
 
 ---
 
-### 🏆 Contribution Snake:
-<div align="center">
-  <img src="https://github.com/neeeringute/neeeringute/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
----
-
 ### 🔥 GitHub Streak:
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeeringute&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
@@ -61,7 +54,6 @@
 
 ### 🏆 Projects & Contributions:
 
-- **[Earthquake Risk Prediction with Solar Activity](#)** - Exploring how solar activity correlates with earthquake risks to build predictive models.
 - **[Automated Data Pipeline](#)** - A project utilizing Python, APIs, and cloud automation to build a data pipeline on GCP.
 - **[Happy Deliveries Analysis](#)** - Insights into a food delivery business through comprehensive data analysis.
 
@@ -86,9 +78,3 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeeringute&theme=material-palenight&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
-
-### ⚡ Recent Activity:
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeeringute&theme=material-palenight&hide_border=true" alt="GitHub Activity" />
-</div>
