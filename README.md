@@ -1,39 +1,94 @@
 [![MasterHead](https://github.com/neeeringute/neeeringute/blob/main/picture%20(1).png)](https://neeeringute.io)
-<h1 align="center">Hi there👋 </h1>
-<h3 align="center">Data Enthusiast with Aspirations in Data Science</h3>
-<img align="right" alt="Coding" width="450" src="https://github.com/neeeringute/neeeringute/blob/main/vid1-ezgif.com-video-to-gif-converter.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeeringute&label=Profile%20views&color=0e75b6&style=flat" alt="neeeringute" /> </p>
+<h1 align="center">Hello, I'm Neringa Pannem 👋</h1>
+<h3 align="center">Data Enthusiast | Aspiring Data Scientist | Tech Explorer</h3>
 
-- 🔭 I’m currently studying **Data Science**
+---
 
-- 🌱 I’m currently learning **Python, SQL, Power BI, Tableau**
+<!-- Banner -->
+<div align="center">
+    <img src="https://github.com/neeeringute/neeeringute/blob/main/vid1-ezgif.com-video-to-gif-converter.gif" width="400" alt="Coding GIF">
+</div>
 
-- 💬 Ask me about **SQL,Power BI,Tableau,Python**
+---
 
-- 📫 How to reach me **neeeringute@gmail.com**
+### 🌟 About Me:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/neringa-pannem-1b42a158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neringa-pannem-1b42a158" height="30" width="40" /></a>
+- 🌱 Currently expanding my knowledge in **Data Science, Python, SQL, Power BI, and Tableau**
+- 🔭 Working on **Predictive Data Models** and building projects with real-world impact
+- 💬 Ask me about **Data Analysis, Visualization Tools, and Python Automation**
+- 📫 You can reach me at **neeeringute@gmail.com**
+- 🧠 Fun fact: I turn data into stories that drive business success 🚀
+
+---
+
+### 🚀 Tech Stack & Tools:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" alt="PyCharm" width="40" height="40"/> 
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>                                                                                
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> </a>                                                                                                                         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="120" height="40"/> </a> 
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" alt="PyCharm" width="40" height="40"/> </a>
+---
+
+### 📈 GitHub Stats:
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neeeringute&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeeringute&layout=compact&theme=material-palenight&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+### 🏆 Contribution Snake:
+<div align="center">
+  <img src="https://github.com/neeeringute/neeeringute/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+---
+
+### 🔥 GitHub Streak:
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeeringute&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏆 Projects & Contributions:
+
+- **[Earthquake Risk Prediction with Solar Activity](#)** - Exploring how solar activity correlates with earthquake risks to build predictive models.
+- **[Automated Data Pipeline](#)** - A project utilizing Python, APIs, and cloud automation to build a data pipeline on GCP.
+- **[Happy Deliveries Analysis](#)** - Insights into a food delivery business through comprehensive data analysis.
+
+---
+
+### 🌍 Let's Connect:
+
+<p align="center">
+  <a href="https://linkedin.com/in/neringa-pannem-1b42a158" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:neeeringute@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeeringute&show_icons=true&locale=en&layout=compact" alt="neeeringute" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeeringute&show_icons=true&locale=en" alt="neeeringute" /></p>
+### 📊 Contribution Graph:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeeringute&" alt="neeeringute" /></p>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeeringute&theme=material-palenight&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+### ⚡ Recent Activity:
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeeringute&theme=material-palenight&hide_border=true" alt="GitHub Activity" />
+</div>
