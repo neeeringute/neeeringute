@@ -39,15 +39,8 @@
 
 ### 📈 GitHub Stats:
 <div align="center">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=neeeringute&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeeringute&layout=compact&theme=material-palenight&hide_border=true" alt="Top Languages"/>
-</div>
-
----
-
-### 🔥 GitHub Streak:
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeeringute&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=neeeringute&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeeringute&layout=compact&theme=material-palenight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
