@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://neeeringute.io">
-        <img src="https://github.com/neeeringute/neeeringute/blob/main/vid1-ezgif.com-video-to-gif-converter.gif" width="1000" alt="Coding GIF">
+        <img src="https://github.com/neeeringute/neeeringute/blob/main/vid1-ezgif.com-video-to-gif-converter.gif" width="800" alt="Coding GIF">
     </a>
 </div>
 
