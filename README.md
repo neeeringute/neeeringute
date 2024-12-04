@@ -9,18 +9,17 @@
 
 ---
 
-<!-- Visitor Counter -->
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=neeeringute&label=Visitors&color=0e75b6&style=flat" alt="Visitor Counter" />
-</p>
-
 ### 🌟 About Me
 
 - 🌱 Currently mastering **Data Science, Python, SQL, Power BI, and Tableau**.
 - 🔭 Focused on **building real-world predictive data models**.
 - 💬 Love discussing **data analysis, visualization tools, and automation in Python**.
-- 📫 Reach me at **neeeringute@gmail.com**.
+- 📫 Reach me at **[neeeringute@gmail.com](mailto:neeeringute@gmail.com)**.
 - 🧠 Fun fact: I turn data into stories that inspire **data-driven decisions** 🚀.
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=neeeringute&label=Visitors&color=0e75b6&style=for-the-badge" alt="Visitor Counter" />
+</div>
 
 ---
 
@@ -70,6 +69,7 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeeringute&theme=radical&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
+
 
 
 
