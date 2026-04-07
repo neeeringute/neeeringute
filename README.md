@@ -14,7 +14,7 @@
 - 🌱 Currently mastering **Data Science, Python, SQL, Power BI, and Tableau**.
 - 🔭 Focused on **building real-world predictive data models**.
 - 💬 Love discussing **data analysis, visualization tools, and automation in Python**.
-- 📫 Reach me at **[paannem@gmail.com](mailto:paannem@gmail.com)**.
+- 📫 Reach me at **[neeeringute@gmail.com](mailto:neeeringute@gmail.com)**.
 - 🧠 Fun fact: I turn data into stories that inspire **data-driven decisions** 🚀.
 
 <div align="center">
